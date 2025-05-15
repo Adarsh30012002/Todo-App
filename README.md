@@ -4,9 +4,6 @@ A simple and stylish TODO application built using HTML, CSS, and JavaScript. Thi
 
 ## 🌐 Live Demo
 https://drive.google.com/drive/folders/10INlEvH2IM90w-JhOxKI-QdcAWVZyZxs
-## 📸 Preview
-
-> *(Optional: Add a screenshot or gif of the app here)*
 
 ## 🚀 Features
 
@@ -20,5 +17,4 @@ https://drive.google.com/drive/folders/10INlEvH2IM90w-JhOxKI-QdcAWVZyZxs
 - CSS3
 - JavaScript (Vanilla JS)
 
-## 📁 Project Structure
 
