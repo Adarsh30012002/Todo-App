@@ -1,1 +1,26 @@
-# Todo-App
+# TODO Application ✅
+
+A simple and stylish TODO application built using HTML, CSS, and JavaScript. This app allows users to add tasks dynamically to a list. Great for learning basic DOM manipulation and front-end development.
+
+## 🌐 Live Demo
+
+> *(Optional: Add GitHub Pages link or deployed URL here)*
+
+## 📸 Preview
+
+> *(Optional: Add a screenshot or gif of the app here)*
+
+## 🚀 Features
+
+- Add new tasks with a click
+- Clean UI with modern gradient background
+- Real-time DOM updates without page refresh
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+
+## 📁 Project Structure
+
