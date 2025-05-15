@@ -3,7 +3,6 @@
 A simple and stylish TODO application built using HTML, CSS, and JavaScript. This app allows users to add tasks dynamically to a list. Great for learning basic DOM manipulation and front-end development.
 
 ## 🌐 Live Demo
-
 https://drive.google.com/drive/folders/10INlEvH2IM90w-JhOxKI-QdcAWVZyZxs
 ## 📸 Preview
 
